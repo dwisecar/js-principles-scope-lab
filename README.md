@@ -6,7 +6,7 @@
 2. Understand how functions determine scope in JavaScript
 
 ## Introduction
-
+ 
 Scuber's drivers are beginning to take down some notes about their customers. Use your knowledge of scope to access and change some of these variables.
 
 ## Instructions
